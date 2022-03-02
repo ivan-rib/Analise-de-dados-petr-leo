@@ -1,2 +1,7 @@
 # Analise-de-dados-petróleo
-Análise da base de dados da ANP
+
+## objetivo
+
+-Criar base de dados SQL com GCP
+-Tratar os dados da ANP utilizando pyspark
+-Migrar dados para ums base cassandra
